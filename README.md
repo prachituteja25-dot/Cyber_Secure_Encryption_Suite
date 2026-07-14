@@ -49,7 +49,7 @@ Cyber_Secure_Encryption_Suite/
 1. Clone the repository
 
 bash
-git clone https://github.com/YOUR_USERNAME/Cyber_Secure_Encryption_Suite.git
+git clone https://github.com/prachituteja25-dot/Cyber_Secure_Encryption_Suite.git
 
 
 2. Install the required library
@@ -66,16 +66,6 @@ python main.py
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-- Main Menu
-- Caesar Cipher
-- AES Encryption
-- Password Strength Checker
-- File Encryption
-
----
 
 ## 📈 Future Scope
 
