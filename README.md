@@ -50,7 +50,5 @@ This project demonstrates two encryption techniques:
 
 
 
-\## Author
 
-Prachi Tuteja
 
