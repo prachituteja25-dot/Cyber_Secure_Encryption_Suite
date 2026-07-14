@@ -65,7 +65,26 @@ python main.py
 
 
 ---
+## 📸 Project Screenshots
 
+### Main Menu
+![Main Menu](main_menu.png)
+
+### Caesar Cipher
+![Caesar Cipher](caesar.png)
+
+### AES Encryption
+![AES Encryption](aes.png)
+
+### Password Strength Checker
+![Password Checker](password.png)
+
+### File Encryption
+![File Encryption](file_encryption.png)
+
+
+### Cyber Security Tip
+![Cyber Security Tip](security_tip.png)
 
 ## 📈 Future Scope
 
